@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: "const planets = [\"Earth\", \"Jupiter\", \"Neptune\"];   \n\nfunction showPlanets(planets)\
+    \ {\n  // write your code\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10140#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 04 May 2022 09:27:05 UTC
+record: -1
